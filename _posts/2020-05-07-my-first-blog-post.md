@@ -10,4 +10,4 @@ Finally, I have managed some time to do this during this Corona Pandemic. Still,
 With this soft launching of this site, I want to let you know that I am going to start writing blogs on different issues whenever I get time. The next blog will be surely of how I created this site with __github and Jekyll__. I will describe the whole thing from start to end by writing each step so that you can have the clear idea about this.
 So, Guys please check the site out soon after.
 
-See you later—__ciao!
+See you later—__ciao!__
