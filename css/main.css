@@ -80,11 +80,11 @@ ul.posts li {
     nav ul li, li a {
         width: 100%;
     }
-    body{
-    padding-top: 10%;
+    body {
+    margin-top:100px;
     }
 
- }
+}
 /*Style for menu links*/
 nav li a {
     display:block;
