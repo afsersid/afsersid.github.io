@@ -2,13 +2,26 @@ body {
     margin: 60px auto;
     width: 80%;
 }
-nav ul, footer ul {
+nav ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-weight: bold;
+    position: absolute;
+}
+footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+nav ul li {
+    display: inline-block;
+    float: left;
+    margin-right: 1px;
+}
+footer ul li {
     display: inline;
     margin-right: 20px;
 }
@@ -18,6 +31,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    background: #19c589;
 }
 h1 {
     font-size: 2.3em;
@@ -50,3 +64,16 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+/*Responsive Styles*/
+@media screen and (max-width : 760px){
+    /*Make dropdown links appear inline*/
+    nav ul {
+        position: static;
+        display: none;
+    }
+    /*Create vertical spacing*/
+    nav li {
+        margin-bottom: 1px;
+    }
+ }
