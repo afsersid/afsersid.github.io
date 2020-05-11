@@ -46,7 +46,7 @@ p {
 nav {
     /*border-bottom: 1px solid #d5d5d5;*/
     font-size: 1.4em;
-    position: fixed;
+    position: none;
     top: 0;
     width: 80%;
     background-color: #F5F5F5;
@@ -69,7 +69,7 @@ ul.posts li {
 @media screen and (max-width : 480px){
     /*Make dropdown links appear inline*/
     nav ul {
-        position: absolute;
+        position: static;
         display: inline;
     }
     /*Create vertical spacing*/
