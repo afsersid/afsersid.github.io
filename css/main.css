@@ -76,6 +76,10 @@ ul.posts li {
     nav li {
         margin-bottom: 1px;
     }
+     /*Make all menu links full width*/
+    nav ul li, li a {
+        width: 100%;
+    }
  }
 /*Style for menu links*/
 nav li a {
