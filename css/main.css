@@ -78,7 +78,6 @@ ul.posts li {
     }
      /*Make all menu links full width*/
     nav ul li, li a {
-        float: none;
         width: 100%;
     }
  }
