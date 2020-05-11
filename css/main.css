@@ -12,6 +12,12 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+  .fas,
+  .fab,
+  .far,
+  .fal {
+    color: $muted-text-color;
+  }
 a {
     text-decoration: none;
     color: #999;
