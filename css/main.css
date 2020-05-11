@@ -69,7 +69,7 @@ ul.posts li {
 @media screen and (max-width : 600px){
     /*Make dropdown links appear inline*/
     nav ul {
-        position: static;
+        /*position: static;*/
         display: inline;
     }
     /*Create vertical spacing*/
