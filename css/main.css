@@ -89,3 +89,7 @@ nav li a {
     background: #2f3036;
     text-decoration: none;
 }
+nav li a:hover {
+    text-decoration: none;
+    background: #19c589;
+}
