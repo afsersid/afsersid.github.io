@@ -83,6 +83,9 @@ ul.posts li {
     body {
     margin-top:100px;
     }
+    body { 
+    padding-top: 80px; 
+    }
 
 }
 /*Style for menu links*/
