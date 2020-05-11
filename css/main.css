@@ -7,28 +7,10 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    overflow: hidden;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    float: left;
-    text-align: center;
-    border-left: 1px solid #fff;
-    border-right: 1px solid #ccc;
-    width: 20%; /* fallback for non-calc() browsers */
-    width: calc(100% / 5);
-    box-sizing: border-box;
-}
-nav ul li:first-child {
-  border-left: none;
-}
-
-nav ul li a {
-  display: block;
-  text-decoration: none;
-  color: #616161;
-  padding: 10px 0;
 }
 a {
     text-decoration: none;
@@ -54,7 +36,6 @@ nav {
     top: 0;
     width: 80%;
     background-color: #F5F5F5;
-    border: 1px solid #ccc;
 }
 footer {
     border-top: 1px solid #d5d5d5;
