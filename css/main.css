@@ -66,10 +66,10 @@ ul.posts li {
 }
 
 /*Responsive Styles*/
-@media screen and (max-width : 600px){
+@media screen and (max-width : 480px){
     /*Make dropdown links appear inline*/
     nav ul {
-        /*position: static;*/
+        position: absolute;
         display: inline;
     }
     /*Create vertical spacing*/
