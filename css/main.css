@@ -36,6 +36,7 @@ nav {
     top: 0;
     width: 80%;
     background-color: #F5F5F5;
+    border: 1px solid #ccc;
 }
 footer {
     border-top: 1px solid #d5d5d5;
