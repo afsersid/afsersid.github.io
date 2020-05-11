@@ -20,6 +20,16 @@ nav ul li, footer ul li {
     width: calc(100% / 5);
     box-sizing: border-box;
 }
+nav ul li:first-child {
+  border-left: none;
+}
+
+nav ul li a {
+  display: block;
+  text-decoration: none;
+  color: #616161;
+  padding: 10px 0;
+}
 a {
     text-decoration: none;
     color: #999;
