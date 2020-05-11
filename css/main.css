@@ -20,18 +20,18 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2.5em;
+    font-size: 2.4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.3em;
+    line-height: 1.3em;
     text-align: justify;
     color: #333;
 }
 nav {
     /*border-bottom: 1px solid #d5d5d5;*/
-    font-size: 1.2em;
+    font-size: 1.4em;
     position: fixed;
     top: 0;
     width: 80%;
@@ -39,7 +39,7 @@ nav {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: 1.0em;
+    font-size: 1.2em;
 }
 
 ul.posts { 
