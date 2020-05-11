@@ -8,7 +8,6 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     overflow: hidden;
-    margin: 0px;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -17,8 +16,8 @@ nav ul li, footer ul li {
     text-align: center;
     border-left: 1px solid #fff;
     border-right: 1px solid #ccc;
-    width: 16.6667%; /* fallback for non-calc() browsers */
-    width: calc(100% / 6);
+    width: 20%; /* fallback for non-calc() browsers */
+    width: calc(100% / 5);
     box-sizing: border-box;
 }
 a {
