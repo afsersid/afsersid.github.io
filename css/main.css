@@ -80,6 +80,9 @@ ul.posts li {
     nav ul li, li a {
         width: 100%;
     }
+    body {
+    margin-top:100px;
+    }
     body { 
     padding-top: 120px; 
     }
