@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
 name: Md. Nurul Afser Siddique, Bio
+title: Md. Nurul Afser Siddique, Information Security Analyst
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
