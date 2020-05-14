@@ -6,3 +6,11 @@ title: Md. Nurul Afser Siddique, Information Security Analyst
         		<h1>Hi there, I'm Md Nurul Afser Siddique!</h1>
 				<p>I'm working as an Information Security Analyst in a Bank in Bangladesh. <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
+			
+			
+			{%- assign latest_post = site.posts[0] -%}
+			<p style="color:#0000A0;font-family:Gill Sans Extrabold, sans-serif;">Latest blog post: <a href="{{ latest_post.url }}">{{ latest_post.title }}</a></p>
+			
+			<!--<p style="color:blue;font-family:courier;">Check out my latest blog:</p>
+			<div style="color:green; font-weight:bold"><a href="{{site.posts.first.url}}">{{site.posts.first.title}}....</a></div>-->
+			
