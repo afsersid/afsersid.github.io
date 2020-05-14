@@ -108,8 +108,10 @@ nav li a:hover {
   width: 200px;
   height: 200px;
   float: left;
+  margin: 0 15px 0 0;
 }
-.newsbrief{
+.img_textinline{
 	overflow:hidden;
+	padding-top: 20px;
 	padding-bottom:20px;
 }

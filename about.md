@@ -3,9 +3,32 @@ layout: default
 title: "About me"
 ---
 
-<div class="newsbrief">
+<div class="img_textinline">
 <img src="/media/afser_photo.jpg" alt="Avatar" class="avatar">
-<p>
-Continuing to the little introduction in the home page.....
-</p>
 </div>
+
+Well, I am living with my family in Dhaka, Bangladesh. I mentioned about my full-time job already. I am a very tech-savvy person, pass ample time with computer. I developed huge interests on information security, different programming languages and frameworks over the years. Apart from that, I watch a lot of movies, TV series, youtube videos and read newspaper articles.
+
+###	About This Site
+
+This website is built out of interest during the Corona Pandemic. I will try to continue writing blogs here which could be related to information technology, social activitites and personal thinking.
+
+###	The main objectives of this website are listed below:
+
+	- Discuss the technical details of information security related domains.
+	- Document the application of Python for data science
+	- Present my independent research projects
+	- Record my personal achievements
+	- It should be noted that all the contents of this website are solely my own and do not express the views or opinions of my employer.
+
+###	My Current Activities beside job:
+
+	- Python
+	- Java
+	- SQL
+	- CISSP
+	- Android App development
+	- HTML
+	- CSS
+	- Javascript
+	- Blog writing
