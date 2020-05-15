@@ -3,12 +3,15 @@ body {
     width: 80%;
 }
 ul {
-  list-style-type: square;
-  margin: 10px;
-  font-size: 1.1em;
-  color: #333;
+	list-style-type: square;
+	margin: 5px;
+	font-size: 1.1em;
+	color: #333;
   /*padding-left: 10px;*/
 }
+ul li {
+	margin: 0 0 3px 0;
+}	
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin: 0;

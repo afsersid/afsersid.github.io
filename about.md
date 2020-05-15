@@ -15,11 +15,11 @@ This website is built out of interest during the Corona Pandemic. I will try to 
 
 ##	Main objectives of the site
 
-- Discuss the technical details of information security related domains
-- Document the application of Python for data science
-- Present my independent research projects
-- Record my personal achievements
-- It should be noted that all the contents of this website are solely my own and do not express the views or opinions of my employer
+- Discuss the technical details of information security related domains.
+- Document the application of Python for data science.
+- Present my independent research projects.
+- Record my personal achievements.
+- It should be noted that all the contents of this website are solely my own and do not express the views or opinions of my employer.
 
 ##	Current activities beside job
 
@@ -35,5 +35,5 @@ This website is built out of interest during the Corona Pandemic. I will try to 
  
 ## Contact me
 
-Please contact me via 'site-links cited in the footer section' if you have any queries.
+Please contact me via **site-links cited in the footer section** if you have any queries.
 
