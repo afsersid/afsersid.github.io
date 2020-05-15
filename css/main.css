@@ -2,6 +2,13 @@ body {
     margin: 60px auto;
     width: 80%;
 }
+ul {
+  list-style-type: square;
+  margin: 10px;
+  font-size: 1.1em;
+  color: #333;
+  /*padding-left: 10px;*/
+}
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin: 0;
