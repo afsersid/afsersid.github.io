@@ -3,9 +3,9 @@ layout: default
 title: "About me"
 ---
 
-<div class="img_textinline">
+<div class="img_textinline" markdown="1">
+
 <img src="/media/afser_photo.jpg" alt="Avatar" class="avatar">
-</div>
 
 Well, I am living with my family in Dhaka, Bangladesh. I mentioned about my full-time job already. I am a very tech-savvy person, pass ample time with computer. I developed huge interests on information security, different programming languages and frameworks over the years. Apart from these, I watch a lot of movies, TV series, youtube videos and read newspaper articles.
 
@@ -37,3 +37,4 @@ This website is built out of interest during the Corona Pandemic. I will try to 
 
 Please contact me via **site-links cited in the footer section** if you have any queries.
 
+</div>
